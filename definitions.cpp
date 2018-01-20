@@ -1,0 +1,12 @@
+#ifndef DEFINITIONS_H
+#define DEFINITIONS_H
+
+#define FULL_HEALTH 25
+#define MAX_ITEMS 100
+#define GRIDX 10
+#define GRIDY 12
+#define FULL_HUNGER 20
+#define FULL_HAPPINESS 100
+#define FULL_INTELLIGENCE 20
+
+#endif
