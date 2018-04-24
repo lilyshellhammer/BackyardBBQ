@@ -1,5 +1,3 @@
-This game, although it looks like it is your average game of backyard
-BBQ aka Animal Crossing, is actually the evolution of a primitive religion.
 Premise:
 You are a fun (customizable) creature who runs through the beautiful
 landscape of Persici, living a carefree existance. You encounter food
